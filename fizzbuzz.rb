@@ -1,3 +1,3 @@
-def fizzbuz
+def fizzbuz(int)
  
 end
